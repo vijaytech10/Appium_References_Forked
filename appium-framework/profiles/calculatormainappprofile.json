@@ -1,0 +1,8 @@
+{"bitbar_apiKey":"ONzNQdFzFsNyzwfwECg6XhXYEfuEJvTQ",
+"bitbar_device":"Huawei P9",
+"bitbar_app":"calculator_android_v78.apk",
+"bitbar_target":"android",
+"platformName":"Android",
+"deviceName":"Android Phone",
+"appActivity":"com.android.calculator2.Calculator",
+"automationName":"Appium"}
